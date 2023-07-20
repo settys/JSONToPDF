@@ -1,0 +1,114 @@
+{
+  "templateToUse": "template1",
+  "resumeData": {
+    "Name": "Luigi Mister",
+    "JobTitle": "Great Guy",
+    "Description": "I do lots of great things, that you can checkout. Sed eu turpis placerat, posuere odio a, viverra velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "ProfileImage": "5.jpeg",
+    "EMail": "luigi@gmail.com",
+    "Website": "www.lauracollins.com",
+    "PhoneNumber": "+12 3456 7890",
+    "FooterDetails": [
+      {
+        "SocialMediaName": "GitHub",
+        "SocialMediaLink": "https://www.github.com/Luigi"
+      },
+      {
+        "SocialMediaName": "LinkedIn",
+        "SocialMediaLink": "https://www.linkedin.com/Luigi.Mister"
+      },
+      {
+        "SocialMediaName": "Twitter",
+        "SocialMediaLink": "https://www.twitter.com/@Luigi"
+      },
+      {
+        "SocialMediaName": "Facebook",
+        "SocialMediaLink": "https://www.facebook.com/LuigiMister"
+      }
+    ],
+    "ResumeDetails": [
+        {
+            "Title":"Work experience",
+            "Type":"list",
+            "Details":[
+                {
+                  "Title": "Team Leader / Websites 'R' Us 2020-Present",
+                  "Description": "Sed eu turpis placerat, posuere odio a, viverra velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+                },
+                {
+                  "Title": "Senior Web Developer / Digital Agency 2016-2020",
+                  "Description": "Phasellus et tellus iaculis, interdum augue vel, luctus nulla. Aenean viverra, magna a ultricies elementum, dui mi tristique ligula, non euismod leo mauris ac metus."
+                },
+                {
+                  "Title": "Web Developer / Big Firm 2010-2015",
+                  "Description": "Mauris volutpat, ex condimentum fringilla imperdiet, nulla turpis semper diam, ac semper risus urna quis libero. Fusce non nunc quam. Ut vulputate, magna eget molestie luctus, elit est posuere lorem, quis dapibus dolor felis id mi."
+                },
+                {
+                  "Title": "Junior Web Developer / Websites 'R' Us 2004-2009",
+                  "Description": "Sed eu turpis placerat, posuere odio a, viverra velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+                }
+              ]
+        },
+        {
+            "Title":"Education",
+            "Type":"list",
+            "Details":[
+                {
+                    "Title":"Computer Science / University Name 2001-2004",
+                    "Description":"Sed et ornare quam. Cras scelerisque ex ultricies neque sodales tristique. Phasellus mattis dui ut enim tincidunt auctor. Maecenas euismod, orci eget varius elementum, nunc massa dignissim sapien, ac sagittis libero dolor vitae elit."
+                },{
+                    "Title":"Testville High School 1994-2000",
+                    "Description":"Aenean nisl enim, dictum in odio ut, suscipit efficitur diam. Nam nec velit a odio porta efficitur nec at magna."
+                }
+            ]
+        },
+        {
+            "Title":"Skills",
+            "Type":"nonlist",
+            "Details":[
+                {
+                    "Title":"HTML",
+                    "Description":"80" 
+                },{
+                    "Title":"CSS",
+                    "Description":"85"
+                },{
+                    "Title":"Javascript",
+                    "Description":"95"
+                },{
+                    "Title":"Wordpress",
+                    "Description":"80"
+                },{
+                    "Title":"Photoshop",
+                    "Description":"65"
+                },{
+                    "Title":"Php",
+                    "Description":"95"
+                },{
+                    "Title":"Linux",
+                    "Description":"50"
+                },{
+                    "Title":"SEO",
+                    "Description":"35"
+                }
+            ]
+        },
+        {
+            "Title":"References",
+            "Type":"list",
+            "Details":[
+                {
+                    "Title":"Contact Me",
+                    "Description":"References would be provided when requested." 
+                } ,{
+                    "Title":"Testimonials",
+                    "Description":"Received several positive testimonials for my work." 
+                }  ,{
+                    "Title":"Awards",
+                    "Description":"I was told that I am great." 
+                } 
+            ]
+        }
+    ]
+  }
+}

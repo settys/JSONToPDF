@@ -12,11 +12,13 @@ var defaultConfig = {
 var assetsFolder = "";
 
 var main = function () {
-  assetsFolder = path.join(process.argv[1], "assets");
+  assetsFolder = path.join(__dirname, "assets");
   var htmlTemplatesFolder = path.join(assetsFolder,"htmlTemplates")
+  var imagesFolder = path.join(assetsFolder,"images")
   var config = getConfiguration();
 
   Controller.setHtmlTemplatesFolder(htmlTemplatesFolder);
+  Controller.setImagesFolder(imagesFolder);
 
 
   var app = express();

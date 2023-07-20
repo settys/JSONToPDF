@@ -2,7 +2,9 @@
   "dependencies": {
     "express": "^4.18.2",
     "fs": "^0.0.1-security",
+    "html-pdf": "^3.0.1",
     "lodash": "^4.17.21",
+    "mime": "^3.0.0",
     "path": "^0.12.7",
     "puppeteer": "^20.8.3"
   }
