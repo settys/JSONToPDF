@@ -5,7 +5,7 @@ This is a NodeJS Server that exposes an API to convert a JSON in a given format 
 Example of input JSON is located in the folder\file
 `example/input1.json` .
 
-The HTML templates used in this code is located in the folder\file `assets/htmlTemplates` .
+The HTML templates used in this code is located in the folder\file `assets/htmlTemplates` .  This HTML template was constructed using the sample detailed in, https://w3collective.com/html-resume-bootstrap/ 
 
 To Run the application, in a nodeJS environment do the following:
 
