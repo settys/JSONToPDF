@@ -22,6 +22,7 @@ function generatePDF(request, response) {
   var onPDFComplete = function (pdfFileCreated) {
     response.send(`${pdfFileCreated} created.`);
   };
+  fs.writeFileSync("output.html",htmlContent)
   // createPDFUsingPuppeteer(htmlContent, "resume.pdf", onPDFComplete);
   createPDFUsingHtmlToPdf(htmlContent, "resume2.pdf", onPDFComplete);
  

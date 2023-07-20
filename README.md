@@ -16,6 +16,6 @@ To Run the application, in a nodeJS environment do the following:
 
 Following is a Curl script to make the API Call.
 ```
-curl -X POST "http://localhost:3001" -H "accept: application/json" -H "Content-Type: application/json" -d @example/input1.json
+curl -X POST "http://localhost:3001/generatePDF" -H "accept: application/json" -H "Content-Type: application/json" -d @example/input1.json
 ```
 
